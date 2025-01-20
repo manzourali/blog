@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1737370842',resources: [
-      '/https://manzourali.github.io/blog/assets/css/jekyll-theme-chirpy.css',
-      '/https://manzourali.github.io/blog/',
+    cacheName: 'chirpy-1737371028',resources: [
+      '/blog/assets/css/jekyll-theme-chirpy.css',
+      '/blog/',
       
-        '/https://manzourali.github.io/blog/categories/',
+        '/blog/categories/',
       
-        '/https://manzourali.github.io/blog/tags/',
+        '/blog/tags/',
       
-        '/https://manzourali.github.io/blog/archives/',
+        '/blog/archives/',
       
-        '/https://manzourali.github.io/blog/about/',
+        '/blog/about/',
       
 
       
